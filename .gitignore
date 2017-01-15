@@ -32,6 +32,8 @@ hs_err_pid*
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+.metadata
+.recomends
 
 # Directories potentially created on remote AFP share
 .AppleDB
