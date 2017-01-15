@@ -1,0 +1,9 @@
+main: me.houdhakker2.test.Test
+version: 1.0
+name: Gravity Boots
+commands:
+   GravityBoots:
+      description: gives the Gravity Boots
+      usage: /GravityBoots
+      permission: Gravity Boots.boots
+      permission-message: You don't have permission to use the boots command

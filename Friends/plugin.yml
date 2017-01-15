@@ -1,0 +1,9 @@
+main: me.houdhakker2.Friends.Test
+version: 1.0
+name: Friends
+commands:
+   friends:
+      description: opens the friends menu
+      usage: /friends
+      permission: Friends.open
+      permission-message: You don't have permission to use the friends command
